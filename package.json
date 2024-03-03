@@ -1,0 +1,29 @@
+{
+  "name": "quocvang",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the difference of any two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-setpass": "^1.0.0",
+    "quocvang": "^1.0.0",
+    "sum2nb": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quocvangvien/quocvang"
+  },
+  "homepage": "twitter.com/quocvangvien",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "quocvangvien",
+  "license": "MIT"
+}
